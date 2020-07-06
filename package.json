@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "admin-bro": "^2.2.9",
+    "admin-bro": "git+https://github.com/zoommeeting/admin-bro.git",
     "admin-bro-expressjs": "^2.0.5",
     "admin-bro-mongoose": "^0.5.1",
     "bcrypt": "^4.0.1",
